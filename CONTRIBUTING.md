@@ -13,9 +13,7 @@ Please note we have a [code of conduct](CODE_OF_CONDUCT.md)  please follow it in
 3. Don't spam to get the assignment of the issue 😀.
 4. Wait for till someone is looking into it !.
 5. Start working on issue only after you got assigned that issue 🚀.
-
 <br>
-
 ## Set-Up and Installation:
 
 To get started with Food ordering website, follow these simple steps:
@@ -73,12 +71,4 @@ To get started with Food ordering website, follow these simple steps:
 
 9. **Wait for Review:**
     Your pull request will now be available for review by the project maintainers. They may provide feedback or ask for changes before merging your pull request into the main branch of the Food-ordering-website repository.
-   
-## **Pull Request Process 🚀**
-1. Ensure that you have self reviewed your code 😀
-2. Make sure you have added the proper description for the functionality of the code
-3. I have commented my code, particularly in hard-to-understand areas.
-4. Add screenshot it help in review.
-5. Submit your PR by giving the necesarry information in PR template and hang tight we will review it really soon 🚀
-<br>
-# **Thank you for contributing💗** 
+
