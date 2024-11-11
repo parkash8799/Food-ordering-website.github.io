@@ -11,7 +11,6 @@ document.addEventListener("DOMContentLoaded", function () {
   }, 500);
 });
 
-  
 document.addEventListener('DOMContentLoaded', () => {
   const faqItems = document.querySelectorAll('.faq-item');
 
@@ -66,6 +65,7 @@ themeToggleIcon.addEventListener("click", function () {
     localStorage.setItem("theme", "light");
   }
 });
+
 /*Refresher*/
 document.addEventListener('DOMContentLoaded', function() {
   const caduceus = document.getElementById('caduceus');
